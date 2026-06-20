@@ -568,6 +568,14 @@ function HeroSection() {
         <div className="blob blob-2" />
         <div className="blob blob-3" />
         <div className="blob blob-4" />
+        {/* Programming Stickers */}
+        <div className="sticker sticker-1">{`{ }`}</div>
+        <div className="sticker sticker-2">{`</>`}</div>
+        <div className="sticker sticker-3">{"//"}</div>
+        <div className="sticker sticker-4">{"=>"}</div>
+        <div className="sticker sticker-5">{"() =>"}</div>
+        <div className="sticker sticker-6">{"const"}</div>
+        <div className="sticker sticker-7">{"#!"}</div>
       </div>
 
       {/* Mouse-follow ambient glow */}
